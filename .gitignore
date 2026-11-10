@@ -1,0 +1,3 @@
+# Your personal settings (webhook URL + secret key). Never upload this to GitHub.
+config.js
+.DS_Store
